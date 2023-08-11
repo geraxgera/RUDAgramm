@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+            RUDAGRAMM
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
